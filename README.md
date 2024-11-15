@@ -21,7 +21,8 @@ Support inforrmation can be found on [Google Drive](https://docs.google.com/docu
 [Python](https://www.python.org/) is a widely used programming language that has many applications.
 The scripts in this repository use Python to access AGOL, retrieve data stored there, and use the data to change/update a MySQL database.
 
-The scripts in this repository use Python3.10 or later.
+
+The scripts in this repository use Python3.10 or later, but due to AGOL requirements, 3.11 is the latest version of Python that will work.
 To check what Python version you have, open a console (or terminal) window and type the following command.
 ```bash
 python3 --version
